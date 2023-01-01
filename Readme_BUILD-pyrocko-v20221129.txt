@@ -1,0 +1,1 @@
+docker build pyrockov20221129 -t pyrocko
